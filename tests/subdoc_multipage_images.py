@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
-Created : 2017-01-14
+Created : 2021-07-27
 
-@author: Eric Lapouyade
+@author: Stan Knutson, stan@agmonitor.com
 '''
 
 from docxtpl import DocxTemplate, InlineImage
